@@ -1,1 +1,2 @@
 # my-pro-webpage-repo
+  This repo aims to show the basic ideas and a frame of my personal website. The basic elements includ my name, very brief bio, and perspective projects. I would like to use the models of personal websites of Mireya Loza and Mark Elliott. Prof. Loza's website is interactive and contains many elelments of digital history, as Loza is a digital historian. Prof. Elliott's website is more basic (but still has some videos and interactive sense) and therefore easier to imitate.
